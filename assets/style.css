@@ -14,17 +14,14 @@ body {
 .title-box {
     width: 500px;
 }
-.title-box img {
-    width: 235px;
-    margin-bottom: -10px;
-}
-.title-box p {
-    color: #24BB89;
-    font-size: 34px;
-    font-weight: normal;
+.title-box h1 {
+    color: #24d8b7;
+    font-family: Verdana, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
     line-height: 32px;
 }
-.title-box p2 {
+.title-box p {
     color: #000;
     font-size: 26px;
     font-weight: normal;
@@ -50,7 +47,7 @@ body {
     outline: none;
 }
 .form-box input:focus {
-    box-shadow: 0px 0px 1px 1px rgb(22, 111, 229);
+    box-shadow: 0px 0px 1px 1px rgb(22, 229, 229);
 }
 .form-box button {
     width: 100%;
@@ -62,13 +59,13 @@ body {
     border: none;
     padding: 13px 0;
     cursor: pointer;
-    background: #166fe5;
+    background: #24d8b7;
 }
 .form-box button:hover {
-    background: #1877f2;
+    background: #6de0cb;
 }
 .form-box a {
-    color: #166fe5;
+    color: #24d8b7;
     font-size: 14px;
     text-decoration: none;
     margin-top: 5px;
