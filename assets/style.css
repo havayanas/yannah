@@ -34,7 +34,7 @@ body {
     border-radius: 5px;
     background: #fff;
     margin-left: 60px;
-    box-shadow: 0px 2px 10px 1px rgba(71, 71, 71, 0.52);
+    box-shadow: 0px 2px 10px 1px #24d8b7;
 }
 .form-box input {
     width: 100%;
